@@ -1,4 +1,4 @@
-// Lenovo V330-15IKB Keyboard Map
+// Lenovo I320-14IKB Keyboard Map
 
 #ifndef NO_DEFINITIONBLOCK
 DefinitionBlock ("", "SSDT", 2, "V330", "_KBD", 0)

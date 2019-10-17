@@ -1,4 +1,4 @@
-// VoodooI2C (TPD0) Patch for Lenovo V330-15IKB with ELAN I2C Precision TouchPad.
+// VoodooI2C (TPD0) Patch for Lenovo I320-14IKB with ELAN I2C Precision TouchPad.
 
 #ifndef NO_DEFINITIONBLOCK
 DefinitionBlock("", "SSDT", 2, "V330", "_I2C", 0)
