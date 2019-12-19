@@ -215,7 +215,7 @@
 				</data>
 				<key>AAPL,ig-platform-id</key>
 				<data>
-				AADAhw==
+				AAAWWQ==
 				</data>
 				<key>device-id</key>
 				<data>
@@ -296,6 +296,8 @@
 			<key>Enabled</key>
 			<false/>
 		</dict>
+		<key>PlayAsync</key>
+		<true/>
 		<key>Scan</key>
 		<dict>
 			<key>Entries</key>
@@ -377,7 +379,7 @@
 				<key>InfoPlistPatch</key>
 				<true/>
 				<key>MatchOS</key>
-				<string>10.15.x, 10.14.6</string>
+				<string>10.15.2, 10.14.6</string>
 				<key>Name</key>
 				<string>com.apple.driver.AppleIntelLpssI2C</string>
 				<key>Replace</key>
@@ -397,7 +399,7 @@
 				<key>InfoPlistPatch</key>
 				<true/>
 				<key>MatchOS</key>
-				<string>10.15.x, 10.14.6</string>
+				<string>10.15.2, 10.14.6</string>
 				<key>Name</key>
 				<string>com.apple.driver.AppleIntelLpssI2CController</string>
 				<key>Replace</key>
@@ -513,6 +515,8 @@
 			</array>
 		</dict>
 		<key>Mobile</key>
+		<true/>
+		<key>NoRomInfo</key>
 		<true/>
 		<key>PlatformFeature</key>
 		<string>0x1A</string>
